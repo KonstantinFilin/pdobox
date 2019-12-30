@@ -2,7 +2,7 @@
     "name": "kfilin/pdobox",
     "type": "library",
     "description": "Simple PDO wrapper in PHP",
-    "keywords": [],
+    "keywords": ["sql", "pdo", "wrapper"],
     "homepage": "https://github.com/KonstantinFilin/pdobox",
     "license": "MIT",
     "authors": [
